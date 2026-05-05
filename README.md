@@ -1,6 +1,6 @@
 # 💼 Work Showcase – Kunal Pareek
 
-Full Stack Developer with 4+ years of experience delivering scalable SaaS applications, WordPress platforms, and API-driven systems for real-world clients.
+Full Stack Developer with 5+ years of experience delivering scalable SaaS applications, WordPress platforms, and API-driven systems for real-world clients.
 
 ⚠️ Note: Source code is not included due to client and company confidentiality.
 
