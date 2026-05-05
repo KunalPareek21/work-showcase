@@ -47,8 +47,6 @@ Developed and delivered 40+ production WordPress platforms across recruitment, L
 
 ### 📰 The Moment (Full Stack – Next.js + Node.js)
 
-https://the-moment.io/
-
 * Full-stack article-based content platform
 * Built using Next.js for scalable frontend and SSR performance
 * Backend powered by Node.js for content management and API handling
