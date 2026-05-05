@@ -88,9 +88,9 @@ Developed and delivered 40+ production WordPress platforms across recruitment, L
 
 ### 🎓 Oram Fortune (LMS Platform)
 
-* Course listing and content delivery system
-* Responsive UI across devices
-* API-based interactions
+* Learning Management System enabling instructors to create and manage courses while students can enroll and track progress
+* Role-based system (admin, instructor, student)
+* Responsive UI with API-based interactions
 
 ---
 
@@ -105,7 +105,19 @@ Developed and delivered 40+ production WordPress platforms across recruitment, L
 
 ## 🔌 WordPress Plugin Work
 
-### 📈 UTM Tracking Plugin
+### 📊 CRM UTM Tracker (Analytics Plugin)
+
+* Custom WordPress plugin for UTM tracking and marketing attribution
+* Built SaaS-style analytics dashboard with Chart.js
+* Developed REST API for external event tracking
+* Implemented API key authentication and rate limiting
+* Designed conversion funnel (visits → signups → subscriptions)
+
+👉 https://github.com/KunalPareek21/crm-utm-tracker
+
+---
+
+### 📈 UTM Tracking Plugin (Client Work)
 
 * Tracks UTM parameters across user sessions
 * Improves marketing attribution accuracy
@@ -126,11 +138,13 @@ Developed and delivered 40+ production WordPress platforms across recruitment, L
 
 ## 📌 Summary
 
-* 50+ WordPress websites delivered
-* 60+ client solutions built
+* 40+ WordPress websites delivered
+* 50+ client solutions built
 * 3 full-stack applications (PanelIQ, Legal AI, The Moment)
 * SaaS platforms and dashboards developed
 * Backend APIs designed and optimized
+
+---
 
 ## 📫 Connect
 
@@ -138,4 +152,3 @@ For professional inquiries or collaborations:
 
 📧 [kunalpareek56@gmail.com](mailto:kunalpareek56@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/kunal-pareek-bba0a2225/
-
