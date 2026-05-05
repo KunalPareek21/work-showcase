@@ -128,8 +128,16 @@ https://the-moment.io/
 
 ## 📌 Summary
 
-* 40+ WordPress websites delivered
-* 50+ client solutions built
+* 50+ WordPress websites delivered
+* 60+ client solutions built
 * 3 full-stack applications (PanelIQ, Legal AI, The Moment)
 * SaaS platforms and dashboards developed
 * Backend APIs designed and optimized
+
+## 📫 Connect
+
+For professional inquiries or collaborations:
+
+📧 [kunalpareek56@gmail.com](mailto:kunalpareek56@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/kunal-pareek-bba0a2225/
+
